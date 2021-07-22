@@ -1,0 +1,10 @@
+C:\Antonio\WorkspaceDotNet\NaveSpacer.UI\bin\Debug\NaveSpacer.UI.exe.config
+C:\Antonio\WorkspaceDotNet\NaveSpacer.UI\bin\Debug\NaveSpacer.UI.exe
+C:\Antonio\WorkspaceDotNet\NaveSpacer.UI\bin\Debug\NaveSpacer.UI.pdb
+C:\Antonio\WorkspaceDotNet\NaveSpacer.UI\obj\Debug\NaveSpacer.UI.csproj.AssemblyReference.cache
+C:\Antonio\WorkspaceDotNet\NaveSpacer.UI\obj\Debug\NaveSpacer.UI.FormPrincipal.resources
+C:\Antonio\WorkspaceDotNet\NaveSpacer.UI\obj\Debug\NaveSpacer.UI.Properties.Resources.resources
+C:\Antonio\WorkspaceDotNet\NaveSpacer.UI\obj\Debug\NaveSpacer.UI.csproj.GenerateResource.cache
+C:\Antonio\WorkspaceDotNet\NaveSpacer.UI\obj\Debug\NaveSpacer.UI.csproj.CoreCompileInputs.cache
+C:\Antonio\WorkspaceDotNet\NaveSpacer.UI\obj\Debug\NaveSpacer.UI.exe
+C:\Antonio\WorkspaceDotNet\NaveSpacer.UI\obj\Debug\NaveSpacer.UI.pdb

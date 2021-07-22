@@ -1,0 +1,8 @@
+C:\Antonio\WorkspaceDotNet\NaveSpacer.GameLogic\bin\Debug\NaveSpacer.GameLogic.dll
+C:\Antonio\WorkspaceDotNet\NaveSpacer.GameLogic\bin\Debug\NaveSpacer.GameLogic.pdb
+C:\Antonio\WorkspaceDotNet\NaveSpacer.GameLogic\obj\Debug\NaveSpacer.GameLogic.csproj.AssemblyReference.cache
+C:\Antonio\WorkspaceDotNet\NaveSpacer.GameLogic\obj\Debug\NaveSpacer.GameLogic.Resource1.resources
+C:\Antonio\WorkspaceDotNet\NaveSpacer.GameLogic\obj\Debug\NaveSpacer.GameLogic.csproj.GenerateResource.cache
+C:\Antonio\WorkspaceDotNet\NaveSpacer.GameLogic\obj\Debug\NaveSpacer.GameLogic.csproj.CoreCompileInputs.cache
+C:\Antonio\WorkspaceDotNet\NaveSpacer.GameLogic\obj\Debug\NaveSpacer.GameLogic.dll
+C:\Antonio\WorkspaceDotNet\NaveSpacer.GameLogic\obj\Debug\NaveSpacer.GameLogic.pdb
